@@ -1,0 +1,5 @@
+typer
+rich
+requests
+beautifulsoup4
+
