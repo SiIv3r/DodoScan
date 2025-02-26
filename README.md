@@ -38,7 +38,7 @@ Your support is appreciated.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://your-repo-url.git
+   git clone https://github.com/SiIv3r/DodoScan.git
    cd dodoscan
    ```
 
