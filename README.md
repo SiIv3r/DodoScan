@@ -5,7 +5,7 @@
 DodoScan is an advanced dorking tool designed to help security professionals and researchers identify sensitive files and exposed admin pages on a target domain. It utilizes Google, Bing, and DuckDuckGo search engines to gather potentially vulnerable or publicly accessible resources.
 
 This tool is intended for ethical hacking and security auditing. Unauthorized use against external systems is strictly prohibited.
-
+![DodoScan Tool](imagetool.png)
 ## Bitcoin Donations
 
 If you find DodoScan useful and would like to support its development, you can donate via Bitcoin:
