@@ -6,6 +6,16 @@ DodoScan is an advanced dorking tool designed to help security professionals and
 
 This tool is intended for ethical hacking and security auditing. Unauthorized use against external systems is strictly prohibited.
 
+## Bitcoin Donations
+
+If you find DodoScan useful and would like to support its development, you can donate via Bitcoin:
+
+**BTC Address**: `bc1qje465lpcs06ccmywj4fer76zhpz8rgav905jsg`
+
+Your support is appreciated.
+
+----
+
 ## Features
 
 - **Sensitive File and Admin Page Discovery**: Automatically finds exposed backups, database dumps, configuration files, and admin login pages.
@@ -58,14 +68,6 @@ This tool is intended for ethical hacking and security auditing. Unauthorized us
 3. **Review the results**:
    - The tool will list discovered sensitive files, admin panels, and other exposed resources.
    - A final summary will display the number of successful queries.
-
-## Bitcoin Donations
-
-If you find DodoScan useful and would like to support its development, you can donate via Bitcoin:
-
-**BTC Address**: `bc1qje465lpcs06ccmywj4fer76zhpz8rgav905jsg`
-
-Your support is appreciated.
 
 ## Legal Disclaimer
 
